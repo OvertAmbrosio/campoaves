@@ -28,7 +28,7 @@
         "admin-lte": "^3.0.0-alpha.2",
         "bar": "^0.1.2",
         "laravel-vue-pagination": "^2.2.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "sweetalert2": "^8.0.1",
         "vform": "^1.0.0",
         "vue-progressbar": "^0.7.5",
